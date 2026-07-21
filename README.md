@@ -54,7 +54,3 @@ A responsive web application built using **HTML, CSS, and JavaScript** that allo
 - Display country flags as images.
 - Add detailed country page.
 
-
-```
-https://your-live-demo-link.com
-```
