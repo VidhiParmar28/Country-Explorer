@@ -10,6 +10,8 @@ A responsive web application built using **HTML, CSS, and JavaScript** that allo
 - ⚡ Instant search with real-time filtering.
 - 📱 Responsive and user-friendly interface.
 
+🔗 **[Live Demo]( https://vidhiparmar28.github.io/Country-Explorer/)**
+
 ## 📸 Screenshot
 <img width="941" height="442" alt="countryexplorer2" src="https://github.com/user-attachments/assets/87bbc264-b458-4ad2-b83f-83ff55477968" />
 
